@@ -33,7 +33,7 @@ A React application that fetches and displays weather information based on the u
    ```bash
    VITE_API_KEY=your_openweather_api_key
 
-4  ** Run the Application**:
+4  **Run the Application**:
      ```bash 
      npm run dev   
 
