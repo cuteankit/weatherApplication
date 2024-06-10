@@ -30,10 +30,10 @@ A React application that fetches and displays weather information based on the u
    npm install   
 
 3. **Create a .env file in the root directory and add your OpenWeather API key**:
-4. ```plaintext
+   ```plaintext
    VITE_API_KEY=your_openweather_api_key
 
- 4  **Run the Application**:
+4.  **Run the Application**:
      ```bash 
      npm run dev
 
