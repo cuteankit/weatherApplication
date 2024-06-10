@@ -29,13 +29,15 @@ A React application that fetches and displays weather information based on the u
    ```bash
    npm install
 
+   4  **Run the Application**:
+     ```bash 
+     npm run dev   
+
 3. **Create a .env file in the root directory and add your OpenWeather API key**:
    ```bash
    VITE_API_KEY=your_openweather_api_key
 
-4  **Run the Application**:
-     ```bash 
-     npm run dev   
+
 
 
 # Usage
