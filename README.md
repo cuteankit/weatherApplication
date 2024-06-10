@@ -38,7 +38,7 @@ A React application that fetches and displays weather information based on the u
      npm run dev
 
 
-# Usage
+## Usage
 
 -On initial load, the application will attempt to fetch and display the weather information for the user's current location.
 -To search for weather information for a specific city or coordinates, enter the city name or coordinates (latitude,longitude) in the input field and click the "Search" button.
