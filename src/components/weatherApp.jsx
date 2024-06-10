@@ -28,7 +28,7 @@ function WeatherApp() {
       }
     };
 
-    //get location permission from user at initial load 
+    //get location permission from user at initial 
     if (navigator.geolocation) {
       navigator.geolocation.getCurrentPosition(
         (position) => {
