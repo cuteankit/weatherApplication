@@ -43,3 +43,11 @@ A React application that fetches and displays weather information based on the u
 -On initial load, the application will attempt to fetch and display the weather information for the user's current location.
 -To search for weather information for a specific city or coordinates, enter the city name or coordinates (latitude,longitude) in the input field and click the "Search" button.
 -The weather data, including temperature, real feel, wind speed, and air quality, will be displayed.
+
+## Features
+
+- Fetch and display current weather information for the user's location.
+- Search and display weather information for a specified city or coordinates.
+- Display the current date and time based on the weather data.
+- Responsive design using Tailwind CSS.
+- Error handling for geolocation and API requests.
