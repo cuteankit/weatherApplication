@@ -1,6 +1,6 @@
 # WeatherApp
 
-A React application that fetches and displays weather information based on the user's current location or a user-specified location (city name or coordinates). It utilizes the OpenWeather API to retrieve weather data and uses various React hooks and libraries for state management, API calls, and styling.
+A React application that fetches and displays weather information based on the user's current location or a user-specified location (city name or coordinates). It utilizes the Weatherapi API to retrieve weather data and uses various React hooks and libraries for state management, API calls, and styling.
 
 ## Features
 
@@ -14,7 +14,7 @@ A React application that fetches and displays weather information based on the u
 
 - **React**: Framework for building the user interface.
 - **Axios**: HTTP client for making API requests.
-- **OpenWeather API**: Provides weather data.
+- **Weatherapi API**: Provides weather data.
 - **Tailwind CSS**: Utility-first CSS framework for styling.
 - **Geolocation API**: Retrieves the user's current geographical location.
 
@@ -36,4 +36,10 @@ A React application that fetches and displays weather information based on the u
 4  ** Run the Application**:
      ```bash 
      npm run dev   
-   
+
+
+# Usage
+
+-On initial load, the application will attempt to fetch and display the weather information for the user's current location.
+-To search for weather information for a specific city or coordinates, enter the city name or coordinates (latitude,longitude) in the input field and click the "Search" button.
+-The weather data, including temperature, real feel, wind speed, and air quality, will be displayed.
